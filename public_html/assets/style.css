@@ -1,0 +1,11 @@
+/* INITIAL SETTINGS */
+
+*{margin:0;padding:0;}
+#margin{margin:0 auto;width:80%;}
+
+/* HEADER */
+
+#header{
+    height:100vh;
+    background:#000;
+}
